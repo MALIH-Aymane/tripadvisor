@@ -1,0 +1,2 @@
+[scrapy]
+settings = tripadvisor_scraper.settings

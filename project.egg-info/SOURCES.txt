@@ -1,0 +1,14 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+tripadvisor_scraper/__init__.py
+tripadvisor_scraper/items.py
+tripadvisor_scraper/middlewares.py
+tripadvisor_scraper/pipelines.py
+tripadvisor_scraper/settings.py
+tripadvisor_scraper/spiders/__init__.py
+tripadvisor_scraper/spiders/attraction_reviews_spider.py
+tripadvisor_scraper/spiders/reviews_spider.py
